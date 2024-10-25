@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Analyst Job
 - 🌱 I’m currently learning Power BI,Microsoft Excel,SQL,Python
 - 💞️ I’m looking to collaborate on projects related to data insights, Power BI dashboards, and sales analytics.
-- 📫 How to reach me email: abhijitkharade@yahoo.com, contact no : 9082638505 ,LinkedIn : linkedin.com/in/abhijit-kharade
+- 📫 How to reach me email: abhijitkharade@yahoo.com
+-                    Contact no : 9082638505
+-                    LinkedIn : linkedin.com/in/abhijit-kharade
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
